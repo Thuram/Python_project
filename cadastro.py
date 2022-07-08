@@ -1,4 +1,4 @@
-from ctypes.wintypes import SIZE
+
 from PySimpleGUI import PySimpleGUI as sg
 
 #Layout 
